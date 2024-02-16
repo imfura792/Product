@@ -1,5 +1,5 @@
 <?php
-// Check if form is submitted
+// Check if form is submitte
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Hardcoded admin credentials for demonstration purposes
     $adminUsername = "admin";
